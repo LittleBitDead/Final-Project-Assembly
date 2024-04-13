@@ -8,4 +8,6 @@ Traffic Light Simulator in MARS 4.5
 - pressing 'q' will quit the program
 - pressing 'e' will allow you to edit at runtime. (Switch from the **Keyboard and Display MMIO Simulator** to **RUN I/O**.
 
-  If you try to input via the Keyboard Window, the program will crash.
+  If you try to input via the Keyboard Window when prompts in the RUN I/O, the program will crash.
+
+![Example Image](Project1/Images/Directions.png)
